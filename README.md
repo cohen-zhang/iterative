@@ -28,4 +28,4 @@
 
 - 高级工程师提交代码也要按规则来
 - 1. ChatGPT 注册和使用： https://chat.openai.com/chat
-作品
+- 靠谱的工程师-作品
