@@ -12,6 +12,7 @@
 
 ——  一名高级开发的每日宣言
 
+「Talk is cheap. Show me the code」（屁话少说，放码过来）
 
 ## 1. 迭代
 
