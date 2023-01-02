@@ -33,3 +33,4 @@
 - 1. ChatGPT 注册和使用： https://chat.openai.com/chat
 - 靠谱的工程师-作品
 - 利其器
+- 稳定输出
