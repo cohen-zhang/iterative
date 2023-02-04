@@ -15,6 +15,8 @@
 
 「Talk is cheap. Show me the code」（屁话少说，放码过来）
 
+> 愿我们总能找到 Bug ，分析问题、解决问题、迭代代码、迭代自己； 阿门、急急如意令； 0 error（s）, 0 warning（s）
+
 ## 1. 相信迭代的力量
 
 - 是投资里的复利
