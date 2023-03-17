@@ -1,5 +1,6 @@
 # chatGpt和Copilot 使用
 
+一定要用好AI
 
 ### 两个单词
 
