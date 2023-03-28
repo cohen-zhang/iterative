@@ -41,6 +41,7 @@
 - Notion AI 一定程度上能治疗对困难任务拖延症， 让你不必从0开始创造，而是描述清楚问题后，让 AI 帮你生成个草稿后，从“修改”开始。
 - 用 AI 编写 Shell 脚本很方便
 - [免费cursor：Write, edit, and chat about your code with a powerful AI  ](https://www.cursor.so/)
+- AI 工具集
 
 
 > 测试只能证明程序有错误，而不能证明程序没有错误。
