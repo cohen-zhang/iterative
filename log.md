@@ -8,5 +8,8 @@
 5. 生成 Logo 
 6. 橡皮鸭
 
+## 不用 AI 做的事
+- 查 API 
+
 
 arthas watch 观察发生异常
