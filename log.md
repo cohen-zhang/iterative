@@ -7,6 +7,7 @@
 4. todo：写 APP 
 5. 生成 Logo 
 6. 橡皮鸭
+7. 重写所有程序Java Demo，写详尽注释，优化打印
 
 ## 不用 AI 做的事
 - 查 API 
