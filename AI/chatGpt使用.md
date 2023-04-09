@@ -18,10 +18,32 @@
 
 slide、ppt、文档、报告
 
+## Mac VS Code 编译器中 Copilot 的快捷键 
+
+- 接受建议：Tab
+- 拒绝建议：Esc
+- 打开Copilot：Ctrl + Enter （会打开一个单独的面板，展示10个建议）
+- 下一条建议：Alt/Option + ]
+- 上一条建议：Alt/Option + [
+- 触发行内Copilot：Alt/Option + \ （Coplit还没有给出建议或者建议被拒绝了，希望手工触发它提供建议）
+
 ## 注册
 
 访问地址： [chat.openai.com](https://chat.openai.com) （需要 梯子🪜）
 cursor 替代品： [https://www.cursors.io/](https://www.cursors.io/)
+
+## 针对没有上下文的问题，如何使用 chatGpt
+
+- 编写SQL脚本前，提供表结构和数据
+- 优化 SQL 语句的执行效率，并让 copilot 解释优化的原因
+- 
+
+## 一个不熟悉的开源项目，如何使用 chatGpt 贡献源码
+
+- 解释代码的作用：注释里让 Copilot 生成代码（某个方法）的解释
+- 让 Copilot 推荐一些可以使用开源库
+
+
 
 ## 针对开发人员，内网商业代码无法联网使用 GPT 生成代码，有什么建议？
 没有上下文
