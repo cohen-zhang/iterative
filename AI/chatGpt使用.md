@@ -42,6 +42,7 @@ cursor 替代品： [https://www.cursors.io/](https://www.cursors.io/)
 
 - 解释代码的作用：注释里让 Copilot 生成代码（某个方法）的解释
 - 让 Copilot 推荐一些可以使用开源库
+- in Chinese: 生成代码的注释，让 Copilot 生成中文的解释
 
 
 
