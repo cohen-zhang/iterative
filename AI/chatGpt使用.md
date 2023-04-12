@@ -1,6 +1,10 @@
 # chatGpt 和 Copilot 使用
 
+Copilot 官网： [https://copilot.github.com/](https://copilot.github.com/) 
+
 一定要用好 Copilot 这个 AI 副驾驶
+
+> Don't fly solo
 
 ## 专业术语及发音
 
@@ -26,6 +30,11 @@ slide、ppt、文档、报告
 - 下一条建议：Alt/Option + ]
 - 上一条建议：Alt/Option + [
 - 触发行内Copilot：Alt/Option + \ （Coplit还没有给出建议或者建议被拒绝了，希望手工触发它提供建议）
+
+## idea for mac 快捷键
+
+1. 选中代码，按下 Ctrl + Alt + Enter，会弹出 Copilot 的建议
+2. 选中代码，按下 Ctrl + Alt + Shift + Enter，会弹出 Copilot 的建议，同时会在当前行下方插入 Copilot 的建议
 
 ## 注册
 
